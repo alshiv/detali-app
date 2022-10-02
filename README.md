@@ -1,0 +1,2 @@
+# detali-app
+MERN app
